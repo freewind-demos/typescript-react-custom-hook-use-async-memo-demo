@@ -1,5 +1,7 @@
-TypeScript React Hello World Demo
+TypeScript React Custom Hook "useAsyncMemo" Demo
 =================================
+
+如何创建一个`useAsyncMemo`的custom hook
 
 ```
 npm install
